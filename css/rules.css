@@ -1,0 +1,44 @@
+.title_styling {
+    width: 50%;
+    font-size: 100px;
+    color:darkkhaki;
+}
+
+.link_styling {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.subtitle_styling {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-size: 50px;
+    color:coral
+}
+
+.description_styling {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18px;
+    color:brown
+}
+
+div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
